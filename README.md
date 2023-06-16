@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayaysir (or BGSMM, yoonbumtae, Cliff, etc.)
 - 📝 I am interested in Swift language.
-  - Awarded at [Apple WWDC23 Student Challenge](https://developer.apple.com/wwdc23/swift-student-challenge/). (Winner)
+  - Awarded at [Apple WWDC23 Swift Student Challenge](https://developer.apple.com/wwdc23/swift-student-challenge/). (Winner)
 - 📱 I have released 5 mobile apps on the App Store.
   - http://yoonbumtae.com/app
 - 💪 No matter what anyone says, I always do my best.
