@@ -1,9 +1,8 @@
 ## ayaysir
 
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white)](https://www.swift.org/)
-
 - 👋 Hi, I’m **@ayaysir** (or BGSMM, yoonbumtae, Cliff, etc.)
-- 📝 I am interested in `Swift` language.
+- 📝 I am interested in [![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white)](https://www.swift.org/)
+ language.
   - 🏆 Awarded at [Apple WWDC23 Swift Student Challenge](https://developer.apple.com/wwdc23/swift-student-challenge/). (Winner)
 - 📱 I have released 5 mobile apps on the App Store.
   - http://yoonbumtae.com/app
