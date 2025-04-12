@@ -7,6 +7,10 @@
 - 📱 I have released 6 mobile apps on the App Store.
   - http://yoonbumtae.com/app
 
+---
+## CV & Portfolio
+- [CV (Korean)](./이력서(요약).md)
+- [Portfolio (Korean)](./포트폴리오(요약).md)
 
 
 
